@@ -20,7 +20,6 @@ training with **RIWI** to become a **Software Engineer**! 🚀
 
 **Follow me on Instagram:** [@JC_GLM](https://www.instagram.com/jc_glm/)
 
-<img width="280" height="280" src="https://github.com/user-attachments/assets/02f3bd75-605d-4b96-af41-568d862d3d82" />
-<img width="280" height="280" src="https://github.com/user-attachments/assets/9919188a-d94e-40aa-bfde-7f2ddca26871" />
+![Image](https://github.com/user-attachments/assets/7af8ad0d-fd9a-4a88-ad0a-078d7aab0776)
 
 </div>
