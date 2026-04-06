@@ -13,10 +13,8 @@ training with **RIWI** to become a **Software Engineer**! 🚀
 
 <br>
 
-<!-- SPIDER-MAN GIF ANIMADO -->
-<img src="https://i.imgur.com/SpiderSwing.gif" width="250" alt="Spider-Man Animation">
-<!-- O usa este de Giphy -->
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ0b2h3czY1czV3b3Z5b2h3czY1czV3b3Z5/spider-man-swinging/giphy.gif" width="250"> -->
+
+<img src="https://i.imgur.com/SpiderSwing.gif" width="650" alt="Spider-Man Animation">
 
 **Follow me on Instagram:** [@JC_GLM](https://www.instagram.com/jc_glm/)
 
