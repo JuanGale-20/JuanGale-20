@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi 👋
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola!+Soy+Juan+Camilo+Gale+Mu%C3%B1oz;Backend+Developer+(Python+-+Flask+-+Java);Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Formacion+en+RIWI+como+Ingeniero+de+Software" />
 
 **Apasionado por construir software limpio, escalable y seguro.**  
