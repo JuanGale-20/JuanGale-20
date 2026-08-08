@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi there 👋
+# Hi 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola!+Soy+Juan+Camilo+Gale+Mu%C3%B1oz;Backend+Developer+(Python+-+Flask+-+Java);Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Formacion+en+RIWI+como+Ingeniero+de+Software" />
 
 **Apasionado por construir software limpio, escalable y seguro.**  
-Me enfoco en el backend: diseño de APIs REST, modelado de datos y buenas prácticas de ingeniería.
-Aprendo por curiosidad, por retos y por proyectos que transforman ideas en productos reales.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Simón Bolívar y actualmente me encuentro en entrenamiento como Software Developer en RIWI, con enfoque en Backend Development y Java. Me interesa fortalecer constantemente mis habilidades en programación, bases de datos y desarrollo de software mediante proyectos y retos prácticos. Me caracterizo por mi capacidad de aprendizaje, disciplina, trabajo en equipo y compromiso con la creación de soluciones eficientes y mantenibles.
 
 ---
 </div>
@@ -30,14 +29,7 @@ Aprendo por curiosidad, por retos y por proyectos que transforman ideas en produ
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanGale-20&show_icons=true&count_private=true&theme=react&hide_border=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGale-20&layout=compact&theme=react&hide_border=false" width="47%" />
-</p>
 
 ---
 
