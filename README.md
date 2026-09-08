@@ -53,6 +53,3 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Simón Bolívar y ac
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanGale-20&label=Profile%20views&color=38BDF8&style=flat" />
-</p>
