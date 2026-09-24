@@ -29,14 +29,14 @@ What I do:
 
 What defines me: fast learning, discipline, teamwork, and commitment to efficient, maintainable solutions.
 
-- 🎓 Education: Systems Engineering — Universidad Simón Bolívar
-- 🌱 Training: RIWI — Software Engineering / Backend (Java)
-- 💼 Interests: Backend APIs, Databases, Clean Architecture, Practical Projects
-- 📍 Colombia | 📧 gmcamilo36@gmail.com
+-  Education: Systems Engineering — Universidad Simón Bolívar
+-  Training: RIWI — Software Engineering / Backend (Java)
+-  Interests: Backend APIs, Databases, Clean Architecture, Practical Projects
+-  Colombia |  gmcamilo36@gmail.com
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,7 +64,7 @@ What defines me: fast learning, discipline, teamwork, and commitment to efficien
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -78,7 +78,7 @@ What defines me: fast learning, discipline, teamwork, and commitment to efficien
 
 ---
 
-## 📚 All Public Repositories
+##  All Public Repositories
 
 ### Backend — Java / Spring Boot
 - [**api-rest-spring-boot**](https://github.com/JuanGale-20/api-rest-spring-boot) — REST API for users + tasks. Java 21, Spring Boot, PostgreSQL, Docker.
@@ -107,7 +107,7 @@ What defines me: fast learning, discipline, teamwork, and commitment to efficien
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -126,7 +126,7 @@ What defines me: fast learning, discipline, teamwork, and commitment to efficien
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
 
