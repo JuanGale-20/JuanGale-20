@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=JuanGale-20&label=Profile%20views&color=38BDF8&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/JuanGale-20?label=Followers&style=flat&color=38BDF8" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-38BDF8?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Junior%20Roles-success?style=flat" alt="open to" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-success?style=flat" alt="open to" />
 </p>
 
 **Passionate about building clean, scalable, and secure software.**
@@ -135,7 +135,7 @@ What defines me: fast learning, discipline, teamwork, and commitment to efficien
 <a href="https://github.com/JuanGale-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
-<i>Open to internships, junior backend roles, and collaborative projects.</i>
+<i>Available for collaborations and new opportunities.</i>
 
 </div>
 
