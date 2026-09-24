@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Systems Engineering student at Universidad Simón Bolívar** and a **Software Developer trainee at RIWI**, focused on **Backend Development with Java, Spring Boot, and Python / Flask**.
 
